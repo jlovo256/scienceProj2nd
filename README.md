@@ -1,2 +1,7 @@
 # scienceProj2nd
-ardunio code for a science project
+Ardunio code for a science project.
+
+@author Jamie Tudor
+@email jtdarkly@gmail.com
+
+

@@ -1,0 +1,9 @@
+{
+  "name": "science-proj2nd",
+  "version": "0.0.0",
+  "description": "scienceProj2nd",
+  "main": "server.js",
+  "author": {
+    "name": "Amaroq"
+  }
+}
